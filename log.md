@@ -15,3 +15,11 @@
 **Thoughts:** That was surprisingly easy. I ignore if getting to work was simpler than I expected thanks to the literal months of thought and notes I spent on this project, or if it's just better to just get to work for a project of that scale. Took roughly an hour plus a few minutes here and there to rewrite minor stuff.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 2: June 7, 2017
+
+**Today's Progress:** Started working on Schedule's constructor (filling a timeline from a list of events), learned dateutil.rrule (for repeating events and tasks), started reading PEP 257 on docstring conventions. Rethinking Schedule.timeline to contain a list of single Occurrences, rather than pure Events (will take another day).
+
+**Thoughts:** First obstacle: realizing that my python3-dateutil package was outdated and did not include rrule.replace (which would have been handy). Should remember this is always the case with Debian. Need some place to lock myself in to escape external interruptions; no such thing with a working connection (yet) alas. Already working with the heart of the program, I didn't think it would happen so fast, and I'm afraid to run into issues because of it, like branching into more and more complex problems from just this Schedule constructor.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
