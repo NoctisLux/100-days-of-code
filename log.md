@@ -23,3 +23,11 @@
 **Thoughts:** First obstacle: realizing that my python3-dateutil package was outdated and did not include rrule.replace (which would have been handy). Should remember this is always the case with Debian. Need some place to lock myself in to escape external interruptions; no such thing with a working connection (yet) alas. Already working with the heart of the program, I didn't think it would happen so fast, and I'm afraid to run into issues because of it, like branching into more and more complex problems from just this Schedule constructor.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+###Day 3: June 8, 2017
+
+**Today's progress:** implemented the scheduling of an Event through its Occurrence(s). Added \_\_repr\_\_() and \_\_str\_\_() to Event, Task and Occurrence for easier testing. Read through and applied PEP8 recommendation.
+
+**Thoughts:** So many PEP to read! Next up is PEP 257 on docstrings. What about annotations? Am guessing most of those recommendations have to do with third-party tools generating the documentation for me. Should I apply and use those?
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
