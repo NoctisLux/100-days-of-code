@@ -24,10 +24,18 @@
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
 
-###Day 3: June 8, 2017
+### Day 3: June 8, 2017
 
 **Today's progress:** implemented the scheduling of an Event through its Occurrence(s). Added \_\_repr\_\_() and \_\_str\_\_() to Event, Task and Occurrence for easier testing. Read through and applied PEP8 recommendation.
 
 **Thoughts:** So many PEP to read! Next up is PEP 257 on docstrings. What about annotations? Am guessing most of those recommendations have to do with third-party tools generating the documentation for me. Should I apply and use those?
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 4: June 9, 2017
+
+**Today's Progress:** Added plaintext docstrings.
+
+**Thoughts:** Spent all day reading up on docstrings conventions and formats as well as Python annotations. It took a while, but I settled with plaintext docstring with a very bare format (actually based on an example from PEP257). Maybe I'll have to change to better stuff later on if I end up using a given tool for automatic documentation or type-checking, but I don't for now and plaintext comments are the easiest to migrate from. Kind of an unproductive day, but to stay consistent and readable, it had to be done earlier rather than later.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
