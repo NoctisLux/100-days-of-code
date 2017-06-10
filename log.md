@@ -39,3 +39,11 @@
 **Thoughts:** Spent all day reading up on docstrings conventions and formats as well as Python annotations. It took a while, but I settled with plaintext docstring with a very bare format (actually based on an example from PEP257). Maybe I'll have to change to better stuff later on if I end up using a given tool for automatic documentation or type-checking, but I don't for now and plaintext comments are the easiest to migrate from. Kind of an unproductive day, but to stay consistent and readable, it had to be done earlier rather than later.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 5: June 10, 2017
+
+**Today's Progress:** Added to Schedule a __repr__() and the bare bones of an __str__() methods.
+
+**Thoughts:** Working with Python is such a pleasure, I hardly considered it work today. Might do some Free Code Camp exercises or maybe work on a more complex feature a bit.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
