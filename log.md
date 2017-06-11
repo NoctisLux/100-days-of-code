@@ -42,8 +42,16 @@
 
 ### Day 5: June 10, 2017
 
-**Today's Progress:** Added to Schedule a __repr__() and the bare bones of an __str__() methods.
+**Today's Progress:** Added to Schedule a \_\_repr\_\_() and the bare bones of an \_\_str\_\_() methods.
 
 **Thoughts:** Working with Python is such a pleasure, I hardly considered it work today. Might do some Free Code Camp exercises or maybe work on a more complex feature a bit.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 6: June 11, 2017
+
+**Today's Progress:** Added get_free_time() to Schedule.
+
+**Thoughts:** Starting to get into the functions that represent the core of the time management calculations. Starting to think about writing unit tests to ensure everything works perfectly before I get overwhelmed by the complexity of nested functions and all the possible sources of an unexpected bug.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
