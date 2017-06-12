@@ -55,3 +55,11 @@
 **Thoughts:** Starting to get into the functions that represent the core of the time management calculations. Starting to think about writing unit tests to ensure everything works perfectly before I get overwhelmed by the complexity of nested functions and all the possible sources of an unexpected bug.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 7: June 12, 2017
+
+**Today's Progress:** Started getting familiar with the unittest module and wrote a couple basic unit tests for Events. Listed Exception for next test cases.
+
+**Thoughts:** Many different unit testing modules exist for Python. The choice wasn't easy. Will probably implement the same tests with multiple frameworks to get familiar with each major one and decide on a favorite. Did not find many situations that would require raising special exceptions in the project so far. Wonder if I am missing any.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
