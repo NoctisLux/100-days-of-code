@@ -63,3 +63,11 @@
 **Thoughts:** Many different unit testing modules exist for Python. The choice wasn't easy. Will probably implement the same tests with multiple frameworks to get familiar with each major one and decide on a favorite. Did not find many situations that would require raising special exceptions in the project so far. Wonder if I am missing any.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 8: June 15, 2017
+
+**Today's Progress:** Over the past two days, researched good practices on exceptions in Python, listed the exceptions to expect from the four classes I have, listed tests to perform and implemented all tests for Event.
+
+**Thoughts:** My routine got interrupted by a series of appointments and the installation of new hardware in the office, but I managed to squeeze some productivity here and there. Not enough to count towards the daily challenge in my opinion though. Now's the time to get back to it.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
