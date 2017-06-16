@@ -71,3 +71,11 @@
 **Thoughts:** My routine got interrupted by a series of appointments and the installation of new hardware in the office, but I managed to squeeze some productivity here and there. Not enough to count towards the daily challenge in my opinion though. Now's the time to get back to it.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 9: June 16, 2017
+
+**Today's Progress:** More tests laid out for Schedule.
+
+**Thoughts:** Writing tests turns out to be more dull than I would have thought. It feels unsatisfying to write code that is designed to fail. As a result, progress has been slow. Will try to finish this the next few days.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
