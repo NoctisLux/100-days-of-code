@@ -79,3 +79,11 @@
 **Thoughts:** Writing tests turns out to be more dull than I would have thought. It feels unsatisfying to write code that is designed to fail. As a result, progress has been slow. Will try to finish this the next few days.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 10-11: June 18-19, 2017
+
+**Today's Progress:** Finished unit tests for Task and Occurrence.
+
+**Thoughts:** Tests for Schedule will prove to be somewhat tiresome to write. Tempted to take a break and work on something else for a while, but I will try to finish up those tests before.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
