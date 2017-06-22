@@ -87,3 +87,11 @@
 **Thoughts:** Tests for Schedule will prove to be somewhat tiresome to write. Tempted to take a break and work on something else for a while, but I will try to finish up those tests before.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 12: June 22, 2017
+
+**Today's Progress:** Schedule will now start when specificed, independantly of the events given.
+
+**Thoughts:** The weather is playing against me. I did not make much progress yesterday, beside writing the setup for Schedule's unit tests. Those might prove more difficult to design than I anticipated. I should write down all the cases I want to test and update the list as the code evolves.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
