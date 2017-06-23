@@ -95,3 +95,11 @@
 **Thoughts:** The weather is playing against me. I did not make much progress yesterday, beside writing the setup for Schedule's unit tests. Those might prove more difficult to design than I anticipated. I should write down all the cases I want to test and update the list as the code evolves.
 
 **Link to work:** [Otto](https://github.com/NoctisLux/otto)
+
+### Day 13: June 23, 2017
+
+**Today's Progress:** Added get\_free\_intervals to Schedule.
+
+**Thoughts:** So far so good. Should add more comments and sections to my code, had to spend a few minutes to read how I dealt with get\_free\_time.
+
+**Link to work:** [Otto](https://github.com/NoctisLux/otto)
